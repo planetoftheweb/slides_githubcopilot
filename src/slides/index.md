@@ -1,8 +1,8 @@
 <!-- .slide: data-state="layout-title no-fragment"  -->
 
-# GitHub Search
+# GitHub Copilot
 
-<div class="btn btn-warning mt-3 ">raybo.org/slides_githubsearch</div>
+<div class="btn btn-warning mt-3 ">raybo.org/slides_githubcopilot</div>
 
 <p class="small mt-5">
   <span class="badge bg-dark me-1 ms-2">t</span> toolbar
